@@ -1,0 +1,45 @@
+.main_body {
+    background-color: rgb(240, 240, 240);
+    width: 800px;
+    height: 930px;
+    padding: 20px;
+    margin: 0 auto;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.code_HW {
+    list-style-type: none;
+    background-color: rgb(231, 231, 231);
+    padding: 20px;
+}
+
+.tags div,
+p {
+    display: inline;
+}
+
+h1,
+h2 {
+    text-align: center;
+}
+
+.tags {
+    font-size: 10px;
+}
+
+span.HTML {
+    text-decoration: underline dotted;
+}
+
+span.code_color {
+    color: rgb(122, 0, 0);
+}
+
+span.text_italic {
+    font-style: italic;
+}
+
+span.tags_color {
+    background-color: rgb(231, 231, 231);
+    color: rgb(100, 145, 145);
+}
